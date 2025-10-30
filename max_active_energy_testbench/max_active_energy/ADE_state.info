@@ -1,0 +1,3 @@
+projectDir = '"~/simulation"
+designInfo = '("8bit_cmos_adder" "max_active_energy_testbench" "schematic" "spectre")
+descriptionText = "None"
